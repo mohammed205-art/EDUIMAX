@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid,.accordion-item ,.accordion-button{
+    background-color: #111827 !important ;
+    
+}
+.accordion-button:focus{
+    background-color: #d63384 !important;
+}
+
+/* color: #e11d48; */
+/* color: rgb(225 29 72/var(--tw-text-opacity,1)); */
+/* background:#111827 */
+/* color:#e11d48 */
+/* d63384 */
